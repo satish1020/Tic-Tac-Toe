@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import from './TicTacToe.css';
 
 // Winning combinations for the game board
 const WINNING_COMBINATIONS = [
